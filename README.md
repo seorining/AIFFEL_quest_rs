@@ -55,36 +55,9 @@ AIFFEL_quest_rs
 │   ├── Go08
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go09
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go10
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go11
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go12
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go13
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go14
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go15
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go16
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Go17
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Go18
-│       ├── .ipynb
-│       └── README.md
+│   └── Go09
+│       ├── .ipynb
+│       └── README.md
 │
 ├── MainQuest
 │   ├── Quest01
