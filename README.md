@@ -2,6 +2,9 @@
 
 - This is a repository for managing projects and peer reviews conducted during the AIFFEL course.
 - It provides a basic framework, allowing users to modify/upload files or folders as needed.
+
+## Directory Structure
+
 ```
 AIFFEL_quest_rs
 ├── Exploration
@@ -105,3 +108,4 @@ AIFFEL_quest_rs
 │   ├── 4.ipynb
 │   └── 5.ipynb
 └── README.md
+```
