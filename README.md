@@ -31,31 +31,31 @@ AIFFEL_quest_rs
 │       └── README.md
 │
 ├── GoingDeeper
-│   ├── Go01
+│   ├── GD01
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go02
+│   ├── GD02
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go03
+│   ├── GD03
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go04
+│   ├── GD04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go05
+│   ├── GD05
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go06
+│   ├── GD06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go07
+│   ├── GD07
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go08
+│   ├── GD08
 │   │   ├── .ipynb
 │   │   └── README.md
-│   └── Go09
+│   └── GD09
 │       ├── .ipynb
 │       └── README.md
 │
