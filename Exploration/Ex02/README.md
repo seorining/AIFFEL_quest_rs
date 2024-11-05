@@ -1,3 +1,5 @@
+<img src = './1.png'>
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김희찬
 - 리뷰어 : 양지웅
